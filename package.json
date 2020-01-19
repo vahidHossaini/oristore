@@ -1,0 +1,23 @@
+{
+  "name": "oristore",
+  "version": "0.0.1",
+  "description": "origami store",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vahidHossaini/oristore.git"
+  },
+  "keywords": [
+    "origamicore",
+    "store"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vahidHossaini/oristore/issues"
+  },
+  "homepage": "https://github.com/vahidHossaini/oristore#readme"
+}
